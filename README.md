@@ -14,10 +14,6 @@
 
 ### Languages and Tools :computer:
 
-[![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&link=https://github.com/nirajkmr)](https://github.com/nirajkmr)
-[![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&link=https://github.com/nirajkmr)](https://github.com/nirajkmr)
-
-[![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/nirajkmr)](https://github.com/nirajkmr)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/nirajkmr)](https://github.com/nirajkmr) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/nirajkmr)](https://github.com/nirajkmr)
 
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirajkmr&theme=dracula&hide_langs_below=1" /></br>
@@ -27,7 +23,7 @@
 
 - 🌱 I’m currently learning **Golang**
 - 📫 How to reach me: **niraj.kmr777sharma@gmail.com**
-- ⚡ Fun fact: **I play too much video games than coding**
+- ⚡ Fun fact: **Love Reading Books**
 <!-- - 😄 Pronouns: ... -->
 
 
