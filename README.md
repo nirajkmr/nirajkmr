@@ -5,7 +5,6 @@
 ### About me :eyes:
 
 - :dart: Full Stack Developer
-- :smiley: Member of **[CODEX](https://github.com/codex-iter)** 
 - :e-mail: Ask me about anything  **[niraj.kmr777sharma@gmail.com](niraj.kmr777sharma@gmail.com)**
 
 ![Sumit Thakur's github stats](https://github-readme-stats.vercel.app/api?username=nirajkmr&show_icons=true&theme=highcontrast)
@@ -29,4 +28,4 @@
 
 ### Reach out to me 👓
 
-<a href="https://twitter.com/SumitTh47464253"><img src="https://i.ibb.co/kmgQVyW/twitter.png" width="32px" height="32px"></a> <a href="https://github.com/nirajkmr777"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/profile.php?id=100004630117274"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a> <a href="https://www.linkedin.com/in/sumit-thakur-7ba452191/"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a> <a href="https://www.instagram.com//"><img src="https://f0.pngfuel.com/png/605/658/black-and-white-instagram-logo-logo-black-and-white-instagram-logo-png-clip-art-thumbnail.png" width="32px" height="32px"></a> 
+<a href="https://twitter.com/SumitTh47464253"><img src="https://i.ibb.co/kmgQVyW/twitter.png" width="32px" height="32px"></a> <a href="https://github.com/nirajkmr777"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/niraj.kumar.58"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a> <a href="https://www.linkedin.com/in/niraj-kumar-03001920/"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a> <a href="https://www.instagram.com//"><img src="https://f0.pngfuel.com/png/605/658/black-and-white-instagram-logo-logo-black-and-white-instagram-logo-png-clip-art-thumbnail.png" width="32px" height="32px"></a> 
