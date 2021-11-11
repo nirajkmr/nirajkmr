@@ -5,7 +5,7 @@
 ### About me :eyes:
 
 - :dart: Full Stack Developer
-- ⚡: 10 + years of experience in software domain.
+- ⚡ 10 + years of experience in software domain.
 - :e-mail: How to reach me **[niraj.kmr777sharma@gmail.com](niraj.kmr777sharma@gmail.com)**
 
 ![Niraj Github Stats](https://github-readme-stats.vercel.app/api?username=nirajkmr&show_icons=true&theme=highcontrast)
