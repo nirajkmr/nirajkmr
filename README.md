@@ -5,9 +5,10 @@
 ### About me :eyes:
 
 - :dart: Full Stack Developer
-- :e-mail: Ask me about anything  **[niraj.kmr777sharma@gmail.com](niraj.kmr777sharma@gmail.com)**
+- :Experience: 10 + years of experience in software domain.
+- :e-mail: How to reach me **[niraj.kmr777sharma@gmail.com](niraj.kmr777sharma@gmail.com)**
 
-![Sumit Thakur's github stats](https://github-readme-stats.vercel.app/api?username=nirajkmr&show_icons=true&theme=highcontrast)
+![Niraj Github Stats](https://github-readme-stats.vercel.app/api?username=nirajkmr&show_icons=true&theme=highcontrast)
 ![My Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=nirajkmr&theme=tokyonight)
 
 
@@ -20,9 +21,11 @@
 
 ### Here are some ideas to get you started:
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning **Golang using Gin**
+- 💬 Ask me about : ** PHP, Python, NodeJS and React**
 - 📫 How to reach me: **niraj.kmr777sharma@gmail.com**
-- ⚡ Fun fact: **Love Reading Books**
+- 📄 Know about my experiences: https://drive.google.com/file/d/1iSXBH5P2q9tRQHBw2FSYapQQ1ZzDxlsz/view?usp=sharing
+- ⚡ Fun fact: **Love Reading Books, Workout and Binge Watch**
 <!-- - 😄 Pronouns: ... -->
 
 
