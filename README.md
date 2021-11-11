@@ -22,7 +22,7 @@
 ### Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Golang using Gin**
-- 💬 Ask me about : ** PHP, Python, NodeJS and React**
+- 💬 Ask me about : **PHP, Python, NodeJS and React**
 - 📫 How to reach me: **niraj.kmr777sharma@gmail.com**
 - 📄 Know about my experiences: https://drive.google.com/file/d/1iSXBH5P2q9tRQHBw2FSYapQQ1ZzDxlsz/view?usp=sharing
 - ⚡ Fun fact: **Love Reading Books, Workout and Binge Watch**
