@@ -1,4 +1,4 @@
-# Namaste 👐 , I'm Niraj Kumar <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px"> 
+# Namaste :pray: , I'm Niraj Kumar <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px"> 
 </br>
 
 
